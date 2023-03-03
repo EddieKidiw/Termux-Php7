@@ -9,7 +9,7 @@ untuk mengetahui arsitekturnya ketikkan lalu enter
 dpkg --print-architecture
 ```
     
-setelah di download, install semuanya ( php_7.4.33-1_xxx.deb, php-apache_7.4.33-1_xxx.deb, php-fpm_7.4.33-1_xxx.deb, php-pgsql_7.4.33-1_xxx.deb ) ![#00d1a0] xxx #00d1a0 adalah arsitekturnya.
+setelah di download, install semuanya ( php_7.4.33-1_xxx.deb, php-apache_7.4.33-1_xxx.deb, php-fpm_7.4.33-1_xxx.deb, php-pgsql_7.4.33-1_xxx.deb )  xxx adalah arsitekturnya.
 
 ```bash
 dpkg -i --force-all lokasi/filedebnya.deb
