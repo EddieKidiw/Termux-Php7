@@ -2,6 +2,10 @@
 php 7.4.33 di termux
 ## Kusus Android 7 ++
 Android 6 tidak kompatibel
+## persiapan
+```bash
+apt update && apt install apache2 postgresql -y
+```
 ## installasi
 Download file semua file deb yang sesuai dengan arsitektur termux masing-masing.
 untuk mengetahui arsitekturnya ketikkan lalu enter
